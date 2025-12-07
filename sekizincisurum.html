@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acil Eylem Planı | Önemli Duyuru</title>
+    <!-- Tailwind CSS yükleniyor -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Varsayılan font ayarı */
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+        body {
+            font-family: 'Inter', sans-serif;
+            /* Arka planı tamamen siyah yap */
+            background-color: #000000;
+        }
+        /* Başlıklar için turkuaz renk */
+        .header-color {
+            color: #20c997; /* Turkuaz/Nane Yeşili Tonu */
+        }
+        /* Metin için beyaza yakın gri */
+        .text-color {
+            color: #d1d5db; /* Tailwind'in gray-300'ü, beyaza yakın, okunaklı gri */
+        }
+    </style>
+</head>
+<body class="min-h-screen p-4 sm:p-8 flex items-center justify-center">
+
+    <!-- Ana İçerik Kartı: Mobil ve masaüstünde ortalanmış, yuvarlak köşeli -->
+    <div class="w-full max-w-2xl p-6 sm:p-10 bg-gray-900 shadow-2xl rounded-xl">
+        
+        <!-- Başlık -->
+        <h1 class="header-color text-3xl sm:text-4xl font-extrabold mb-4 border-b border-gray-700 pb-3">
+            Sonu Gelmeyen Kesintilere Acil Eylem Planı
+        </h1>
+
+        <!-- Giriş Bölümü -->
+        <p class="text-color text-lg sm:text-xl font-medium mb-6 leading-relaxed">
+            Değerli kullanıcılarımız,
+        </p>
+
+        <!-- Ana Duyuru Metni -->
+        <div class="space-y-6">
+            <p class="text-color text-base sm:text-lg leading-relaxed">
+                Tekrar hortladığını gördüğümüz ve kabul edilemez seviyelere ulaşan kesintiler nedeniyle, uygulamamızdan aldığınız verimin düştüğünü üzülerek gözlemlemekteyiz. Kullanıcı deneyiminizi önceliğimiz olarak görerek bu sorunu kökten çözmek adına **acil bir eylem planını devreye almış bulunmaktayız.**
+            </p>
+
+            <p class="text-color text-base sm:text-lg leading-relaxed">
+                Sorunların temel kaynağı olan mevcut **HOSTİNG FİRMASINDAN TAMAMEN KURTULMAK** için, çalışmalarına ara verdiğimiz, sıfırdan yeniden yazmaya mecbur kaldığımız kendi yazılımımızın geliştirme sürecini durdurduk.
+            </p>
+            
+            <p class="text-color text-base sm:text-lg leading-relaxed">
+                Şu anda yayında olan mevcut projemizi (uygulamanızın yedinci sürümünü), sorunsuz bir hizmet deneyimi sunan farklı ve güvenilir bir altyapıya hızla taşıyoruz. Bu transfer sürecinin tamamlanmasıyla birlikte, uygulamanın **sekizinci sürümü (Sürüm 8)** halinde en kısa sürede yayına sunulacaktır.
+            </p>
+        </div>
+
+        <!-- Kapanış / Taahhüt -->
+        <p class="header-color text-lg sm:text-xl font-bold mt-8">
+            Sabrınız ve anlayışınız için teşekkür ederiz. Kesintisiz yayın garantisi vermek için kararlıyız.
+        </p>
+
+    </div>
+</body>
+</html>
