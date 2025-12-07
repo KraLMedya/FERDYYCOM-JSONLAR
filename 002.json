@@ -133,7 +133,7 @@
     "BANNER": "ca-app-pub-3210781577321184/8983269884",
     "GECIS": "ca-app-pub-3210781577321184/1404356289",
     "OPEN": "ca-app-pub-3210781577321184/8053525119",
-    "is_admob_enabled": true,
+    "is_admob_enabled": false,
     "is_banner_enabled": true,
     "is_interstitial_enabled": true,
     "is_app_open_enabled": true,
