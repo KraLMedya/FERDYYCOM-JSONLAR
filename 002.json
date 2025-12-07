@@ -1,0 +1,230 @@
+{
+  "RADYO_KANALLARI": {
+    "EFKAR FM": "http://27873.live.streamtheworld.com/EFKAR128AAC.aac",
+    "FERDIBABA FM": "http://live.radyositesihazir.com/8004/stream",
+    "MUSLUMBABA FM": "http://stream-176.zeno.fm/e2xldyzxqhouv"
+  },
+  "TV_KANALLARI": {
+    "001": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "002": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "003": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "004": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "005": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "006": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "007": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "008": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "009": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "010": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "011": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "012": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "013": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "014": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "015": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "016": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "017": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "018": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "019": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "020": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "021": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "022": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "023": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "024": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "025": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "026": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "027": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "028": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "029": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "030": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "031": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "032": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "033": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "034": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "035": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "036": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "037": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "038": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "039": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "040": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "041": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "042": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "043": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "044": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "045": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "046": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "047": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "048": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "049": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "050": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "051": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "052": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "053": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "054": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "055": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "056": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "057": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "058": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "059": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "060": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "061": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "062": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "063": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "064": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "065": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "066": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "067": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "068": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "069": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "070": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "071": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "072": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "073": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "074": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "075": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "076": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "077": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "078": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "079": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "080": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "081": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "082": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "083": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "084": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "085": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "086": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "087": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "088": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "089": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "090": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "091": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "092": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "093": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "094": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "095": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "096": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "097": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "098": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "099": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "100": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
+    "KRALLL": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+    "TRTHABERRR": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
+    "36000": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
+    "BEYAZZZ": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8",
+    "KANAL777": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
+    "TRTTT": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web",
+    "ATVVV": "http://89.187.191.41/ATV-HD-TR/video.m3u8",
+    "NOWWW": "http://116.202.238.88/FOXTV_TR/index.m3u8"
+  },
+  "BEKLERKEN_OYNA": {
+    "BALON PATLATMA": "http://kralmedya.github.io/HTML/BIRAZOYUN.html"
+  },
+  "SOHBETLER": {
+    "CANLI SOHBET": "http://www5.cbox.ws/box/?boxid=933696&boxtag=KraLFM"
+  },
+  "anakayan_yazi": {
+    "etkin": false,
+    "metin": "      📢   Güncel teknolojilerle donatılan 9'uncu versiyona Hoş Geldiniz ! Seveceğini umuyoruz, Keyifli Dinlemeler 🤗😊🩵"
+  },
+  "uygulama_resimleri": {
+    "ana_ekran_arkaplan_url": "http://kralmedya.github.io/FOTOLAR/efkarfmarka2.jpg",
+    "anaekran_mutluluk_YEDEK": "http://kralmedya.github.io/FOTOLAR/anaekran_mutluluk.webp"
+  },
+  "ADMOB_REKLAMLAR": {
+    "GECIS_REKLAM_SAYACI": 1,
+    "BANNER": "ca-app-pub-3210781577321184/8983269884",
+    "GECIS": "ca-app-pub-3210781577321184/1404356289",
+    "OPEN": "ca-app-pub-3210781577321184/8053525119",
+    "is_admob_enabled": true,
+    "is_banner_enabled": true,
+    "is_interstitial_enabled": true,
+    "is_app_open_enabled": true,
+    "APP_OPEN_REKLAM_SIKLIK_SURESI": 1
+  },
+"VERSIYON_KONTROLU": {
+  "min_zorunlu_versiyon_kodu": 2,
+  "son_versiyon_kodu": 2,
+  "zorunlu_mesaj_tr": "ÖNEMLİ UYARI: Uygulamanın önceki 8. sürümünde kritik bir hata tespit edilmiştir. Sorunsuz ve güvenli kullanım için LÜTFEN **yeni stabil sürüm 9'a** (veya daha yükseğe) hemen güncelleyin. Eğer güncelleme butonu çalışmazsa, bu, 9. sürümün henüz Play Store'a düşmediği anlamına gelir; lütfen kısa bir süre sonra tekrar deneyiniz.",
+  "tavsiye_mesaji_tr": "Yeni özellikler ve iyileştirmeler içeren bir güncelleme mevcuttur. Daha iyi bir deneyim için şimdi güncelleyebilirsiniz.",
+  "bakim_modu_aktif": false
+},
+  "yasal_metinler": {
+    "kullanim_kosullari": {
+      "baslik": "Kullanım Koşulları",
+      "metin": "- Bu uygulamayı kullanarak aşağıdaki şartları kabul etmiş olursunuz:\n<br><br>\n1.  Hesap Sorumluluğu:\n<br>Hesabınızın güvenliğinden siz sorumlusunuz.\n<br><br>\n2.  İçerik:\n<br>Paylaştığınız tüm içerikler size aittir ve yasalara uygun olmalıdır.\n<br><br>\n3.  Gizlilik:\n<br>Gizlilik Politikamızı okuyup anladığınızı kabul edersiniz.\n<br><br>\n4.  İptal Hakkı:\n<br>Uygulama yönetimi, gerekli gördüğünde hesabınızı askıya alma veya sonlandırma hakkını saklı tutar."
+    },
+    "gizlilik_politikasi": {
+      "baslik": "Gizlilik Politikası",
+      "metin": "- Uygulama, kişisel tüm verilerinizi toplarken ve işlerken gizliliğinize saygı duyar, bu nedenle tüm verileri yalnızca Sizin cihazınızda depolar.\n<br><br>\n- Toplanan Veriler:\n<br>E-posta adresiniz, kullanıcı adınız ve şifreniz toplanır.\n<br><br>\n- Veri Kullanımı:\n<br>Verileriniz, uygulamanın işleyişi ve güvenliği için kullanılır.\n<br><br>\n- Veri Paylaşımı:\n<br>Kişisel verileriniz, yasal zorunluluklar dışında üçüncü taraflarla paylaşılmaz."
+    }
+  },
+    "002gizli": 
+    {
+        "KAYANDUYURUgoster": "false",
+        "ANASAYACgoster": "false",
+        "CANLIYAYIN": "true",
+        "GIZLIKRALgoster": "false",
+        "GizliLOBIgoster": "false",
+        "LOBI": "true"
+},  
+    "002linkler":
+      {
+        "ANASAYAC": "http://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "GIRISWEB": "http://kralmedya.github.io/HTML/002sohbetkural.html",
+        "GIZLIKRAL": "http://kralmedya.github.io/TVLER/kralptv.html",
+        "GIZLILOBI": "http://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "TVlink": "http://kralmedya.github.io/JSONLAR/TVlinkler.json",
+        "TVLER": "http://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8",
+        "RADYOLAR": "http://kralmedya.github.io/HTML/tadilat.html",
+        "LOBITV": "http://kralmedya.github.io/TVLER/KRALMEDYATV2.html",
+        "LOBISOHBET": "http://www5.cbox.ws/box/?boxid=951754&boxtag=02lobi",
+        "KRALTV": "http://kralmedya.github.io/TVLER/kralptv.html",
+        "ANASOHBET": "http://www5.cbox.ws/box/?boxid=933696&boxtag=KraLFM",
+        "BIRAZOYUN": "http://kralmedya.github.io/HTML/BIRAZOYUN.html"
+},
+    "002metinler": 
+    {
+        "KAYANDUYURU": "      📢   Güncel teknolojilerle donatılan 6'ncı versiyona Hoş Geldin ! Seveceğini umuyoruz, Keyifli Dinlemeler 🤗😊🩵",
+        "BILGIPENCERETVLER":  "http://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
+        "BILGIPENCERETELIFHAKKI":  "http://kralmedya.github.io/HTML/002-KANALLISTESI.html"
+    },
+    "002sayaclar":
+      {
+        "ANASAYAC": "http://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "STREAMSAYAC": "http://kralmedya.github.io/SAYACLAR/002STREAMSAYAC.html",
+        
+        "SADECEoyunSAYAC": "http://kralmedya.github.io/SAYACLAR/002sadeceoyunsayac.html",
+        "SADECEsohbetSAYAC": "http://kralmedya.github.io/SAYACLAR/002sadeceSOHBETsayac.html",
+
+        "ExtralarANASAYFAsayac": "http://kralmedya.github.io/SAYACLAR/002ExtralarANASAYFAsayac.html",
+        "KRALTVoyunsayac": "http://kralmedya.github.io/SAYACLAR/002KRALTVoyunsayac.html",
+        "KRALTVsohbetsayac": "http://kralmedya.github.io/SAYACLAR/002KRALTVsohbetsayac.html",
+        
+        "LOBIOYUNsayac": "http://kralmedya.github.io/SAYACLAR/002LOBIOYUNsayac.html",
+        "LOBISOHBETsayac": "http://kralmedya.github.io/SAYACLAR/002LOBISOHBETsayac.html",
+        "OYUNSOHBETsayac": "http://kralmedya.github.io/SAYACLAR/002OYUNSOHBETsayac.html",
+
+        "TVOYUNsayac": "http://kralmedya.github.io/SAYACLAR/001TVOYUNsayac.html",
+        "TVSOHBETsayac": "http://kralmedya.github.io/SAYACLAR/001TVSOHBETsayac.html",
+        "TVLERsayac": "http://kralmedya.github.io/SAYACLAR/001TVLERsayac.html"
+},  
+    "002resimler":
+      {
+        "KRALTVLOGO": "http://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
+        "TVLERLOGO": "http://kralmedya.github.io/FOTOLAR/kraltvlogo.gif",
+        "KAHVE": "http://kralmedya.github.io/FOTOLAR/kahve.gif",
+        "X2": "http://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "X3": "http://kralmedya.github.io/SAYACLAR/002sayac.html",
+        "X4": "http://kralmedya.github.io/SAYACLAR/002sayac.html"
+},
+  "paylasim_ayarlari": {
+    "resim_kalitesi": 33,
+    "paylasim_yenileme": 10000,
+    "karakter_limiti": 300
+  },
+  "genel_ayarlar": {
+    "bakim_modu": false
+  },
+  "lisans_bilgileri": {
+    "sahip": "Ferdyy",
+    "gecerlilik_tarihi": "31/12/2026"
+  }
+}
