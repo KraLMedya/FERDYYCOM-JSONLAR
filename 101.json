@@ -1,13 +1,13 @@
 {
   "anaVitrinBaslik": "Ürün Destek Sistemi Vitrini - Tüm Kategoriler ve Çözümler Tek Yerde | Bilgi Bankası Güncellemeleri",
   "WhatsAPP": "https://wa.me/905382700400?text=Merhaba!",
-  "SATINAL": false,
+  "SATINAL": true,
   "ADMOB_REKLAMLAR": {
     "BANNER": "ca-app-pub-4848577017194367/9745802150",
     "GECIS": "ca-app-pub-4848577017194367/9538204003",
     "YEREL": "ca-app-pub-4848577017194367/2690983807",
     "OPEN": "ca-app-pub-4848577017194367/5128185706",
-    "ADMOB_ENABLED": false
+    "ADMOB_ENABLED": true
   },
   "IBAN": [
     {
