@@ -218,7 +218,7 @@
   "paylasim_ayarlari": {
     "resim_kalitesi": 33,
     "paylasim_yenileme": 10000,
-    "karakter_limiti": 300
+    "karakter_limiti": 277
   },
   "genel_ayarlar": {
     "bakim_modu": false
