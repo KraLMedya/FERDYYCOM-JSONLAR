@@ -158,7 +158,7 @@
   },
     "002gizli": 
     {
-        "KAYANDUYURUgoster": "false",
+        "KAYANDUYURUgoster": "true",
         "ANASAYACgoster": "false",
         "CANLIYAYIN": "true",
         "GIZLIKRALgoster": "false",
@@ -182,7 +182,7 @@
 },
     "002metinler": 
     {
-        "KAYANDUYURU": "          📢   KRAL Medya FM başta olmak üzere, tüm projelerimizde tam ekran reklam sayılarını önemli ölçüde azaltarak uygulama kullanım konforunuzu arttırmaya odaklandık. Sizlerden yalnızca tek bir ricamız var, o da şudur: Google Play Store'da, uygulamanıza beş yıldız ve yapıcı yorumlar bırakarak bize TEK SEFERLİK bu desteği sunmanız. ZOR DÖNEMLERDEN GEÇİYORUZ ve bu desteğin uygulamanız için HAYATİ önem taşıdığını anladığınızı biliyoruz. Tüm destekleriniz için TEŞEKKÜR EDERİZ.    🤗😊🩵",
+        "KAYANDUYURU": "          📢   Çalışmayan, hata veren radyoları ve ayrıca önerilerinizi Bize Ulaş bölümünden bildirebilirsiniz.    🤗😊🩵",
         "BILGIPENCERETVLER":  "http://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "http://kralmedya.github.io/HTML/002-KANALLISTESI.html"
     },
