@@ -558,121 +558,136 @@
       "renkBitis": "#2E7D32"
     }
   ],
+{
   "biziTercihEdenler": [
     {
       "id": 1,
+      "kurumAdi": "CANSU TEKSTİL",
+      "logoUrl": "https://placehold.co/100x100/1565C0/ffffff?text=CT",
+      "sektor": "Tekstil",
+      "aciklama": "Personel Takip Sistemleri - Yüz Tanıma\nİnternet Sitesi: CansuTekstil.com\nSunucu Hizmeti: PDKS Yazılım\n\nÇözümleri ile 11 yıldır bizimle çalışmaktalar"
+    },
+    {
+      "id": 2,
+      "kurumAdi": "ILGINN TEKSTİL",
+      "logoUrl": "https://placehold.co/100x100/388E3C/ffffff?text=IT",
+      "sektor": "Tekstil",
+      "aciklama": "Personel Takip Sistemleri - Yüz Tanıma\nSunucu Hizmeti: PDKS Yazılım\n\nÇözümleri ile 10 yıldır bizimle çalışmaktalar"
+    },
+    {
+      "id": 3,
       "kurumAdi": "Yüce Holding A.Ş.",
       "logoUrl": "https://placehold.co/100x100/1565C0/ffffff?text=YH",
       "sektor": "Finans ve Sigorta",
       "aciklama": "Önde gelen bankacılık çözümlerimiz ile 5 yıldır çözüm ortağıyız."
     },
     {
-      "id": 2,
+      "id": 4,
       "kurumAdi": "Akkent Belediyesi",
       "logoUrl": "https://placehold.co/100x100/388E3C/ffffff?text=AB",
       "sektor": "Kamu Hizmetleri",
       "aciklama": "Personel takip ve kartlı geçiş sistemlerimizle tüm tesisleri yönetiyorlar."
     },
     {
-      "id": 3,
+      "id": 5,
       "kurumAdi": "Tekno Yapı İnşaat",
       "logoUrl": "https://placehold.co/100x100/FBC02D/000000?text=TY",
       "sektor": "İnşaat ve Taahhüt",
       "aciklama": "Mobil uygulama ve saha entegrasyon çözümlerini kullanıyorlar."
     },
     {
-      "id": 4,
+      "id": 6,
       "kurumAdi": "Anadolu Eğitim Kurumları",
       "logoUrl": "https://placehold.co/100x100/D32F2F/ffffff?text=AE",
       "sektor": "Eğitim ve Öğretim",
       "aciklama": "Yüz tanıma ve parmak izi sistemleri ile öğrenci ve personel giriş çıkış takibi."
     },
     {
-      "id": 5,
+      "id": 7,
       "kurumAdi": "Ege Lojistik",
       "logoUrl": "https://placehold.co/100x100/607D8B/ffffff?text=EL",
       "sektor": "Taşımacılık ve Lojistik",
       "aciklama": "Filo takip ve araç içi personel onay sistemleri için bizi tercih ettiler."
     },
     {
-      "id": 6,
+      "id": 8,
       "kurumAdi": "Global Sağlık Merkezi",
       "logoUrl": "https://placehold.co/100x100/00BCD4/000000?text=GSM",
       "sektor": "Sağlık Hizmetleri",
       "aciklama": "Nöbet takibi ve vardiya planlama çözümlerimizle iş gücü yönetimini optimize ettik."
     },
     {
-      "id": 7,
+      "id": 9,
       "kurumAdi": "Mega Otomotiv Fabrikası",
       "logoUrl": "https://placehold.co/100x100/FFC107/000000?text=MOF",
       "sektor": "Üretim ve Sanayi",
       "aciklama": "Üretim hattı giriş-çıkış kontrolü ve izin takip sistemleri için çözüm ortağıyız."
     },
     {
-      "id": 8,
+      "id": 10,
       "kurumAdi": "Doğu Tarım Ürünleri",
       "logoUrl": "https://placehold.co/100x100/8BC34A/000000?text=DTU",
       "sektor": "Tarım ve Gıda",
       "aciklama": "Saha personelinin GPS takibi ve mesai yönetimi sistemi entegre edildi."
     },
     {
-      "id": 9,
+      "id": 11,
       "kurumAdi": "Kuzey E-Ticaret Platformu",
       "logoUrl": "https://placehold.co/100x100/7E57C2/ffffff?text=KET",
       "sektor": "Bilişim ve E-Ticaret",
       "aciklama": "Yazılım ekibinin esnek çalışma saatleri ve proje bazlı mesai takibi yapılıyor."
     },
     {
-      "id": 10,
+      "id": 12,
       "kurumAdi": "Marmara Turizm Acentası",
       "logoUrl": "https://placehold.co/100x100/009688/ffffff?text=MTA",
       "sektor": "Turizm ve Seyahat",
       "aciklama": "Şube çalışanlarının giriş-çıkışları ve tatil/izin talepleri sistemimiz üzerinden yönetiliyor."
     },
     {
-      "id": 11,
+      "id": 13,
       "kurumAdi": "Şehir Güvenlik Hizmetleri",
       "logoUrl": "https://placehold.co/100x100/3F51B5/ffffff?text=ŞGH",
       "sektor": "Güvenlik ve Koruma",
       "aciklama": "Devriye personelinin anlık konum takibi ve raporlama çözümlerini sağlıyoruz."
     },
     {
-      "id": 12,
+      "id": 14,
       "kurumAdi": "Atlas Kimya Sanayi",
       "logoUrl": "https://placehold.co/100x100/9C27B0/ffffff?text=AKS",
       "sektor": "Kimya ve Petrokimya",
       "aciklama": "Tehlikeli madde alanlarına giriş çıkış kontrolü için biyometrik sistemler kuruldu."
     },
     {
-      "id": 13,
+      "id": 15,
       "kurumAdi": "Rönesans Medya Grubu",
       "logoUrl": "https://placehold.co/100x100/E91E63/ffffff?text=RMG",
       "sektor": "Medya ve Yayıncılık",
       "aciklama": "Stüdyo ve ofis personelinin giriş çıkışları, turnike sistemleri ile kontrol altında."
     },
     {
-      "id": 14,
+      "id": 16,
       "kurumAdi": "Orta Anadolu Madencilik",
       "logoUrl": "https://placehold.co/100x100/795548/ffffff?text=OAM",
       "sektor": "Madencilik",
       "aciklama": "Zorlu saha koşullarına uygun, dayanıklı mobil takip cihazları ve yazılımları temin edildi."
     },
     {
-      "id": 15,
+      "id": 17,
       "kurumAdi": "Merkez Enerji Dağıtım",
       "logoUrl": "https://placehold.co/100x100/00E5FF/000000?text=MED",
       "sektor": "Enerji",
       "aciklama": "Uzaktan çalışan teknik ekiplerin iş emri ve zaman takibi çözümlerimizle yönetiliyor."
     },
     {
-      "id": 16,
+      "id": 18,
       "kurumAdi": "Güneş Restoran Zinciri",
       "logoUrl": "https://placehold.co/100x100/FF9800/000000?text=GRZ",
       "sektor": "Yiyecek ve İçecek",
       "aciklama": "Tüm şubelerdeki vardiya ve puantaj işlemlerini tek merkezden yönetmek için çözüm ortağıyız."
     },
     {
-      "id": 17,
+      "id": 19,
       "kurumAdi": "Yenilikçi Teknoloji Merkezi",
       "logoUrl": "https://placehold.co/100x100/673AB7/ffffff?text=YTM",
       "sektor": "Araştırma ve Geliştirme",
