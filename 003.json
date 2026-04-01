@@ -1,6 +1,6 @@
 {
   "RADYO_KANALLARI": {
-    "KRAL FM": "http://kralwmp.radyotvonline.com",
+    "KRAL FM": "https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8",
     "KRAL POP RADYO": "http://kralpopwmp.radyotvonline.com",
     "FERDi BABA FM": "http://live.radyositesihazir.com/8004/stream",
     "MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv",
