@@ -1,5 +1,6 @@
 {
   "RADYO_KANALLARI": {
+    "KRALLLL": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
     "EFKAR FM": "http://27873.live.streamtheworld.com/EFKAR128AAC.aac",
     "FERDIBABA FM": "http://live.radyositesihazir.com/8004/stream",
     "MUSLUMBABA FM": "http://stream-176.zeno.fm/e2xldyzxqhouv"
@@ -105,7 +106,7 @@
     "098": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
     "099": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
     "100": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
-    "KRALLL": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+    "KRALLL": "https://dygvideo.dygdigital.com/live/hls/kralpop/playlist.m3u8",
     "TRTHABERRR": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
     "36000": "https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8",
     "BEYAZZZ": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8",
