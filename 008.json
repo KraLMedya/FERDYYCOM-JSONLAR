@@ -1,8 +1,8 @@
 {
     "RADYO_KANALLARI": {
-        "RADYO 2000": "http://stream.taksimbilisim.com:8004/;",
-        "Ferdi FM": "http://78.129.150.207:13867/listen.pls?sid=1",
-        "MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv"
+      "RADYO 2000": "http://stream.taksimbilisim.com:8004/;",
+      "Ferdi FM": "http://78.129.150.207:13867/;",
+      "MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv"
     },
   "TV_KANALLARI": {
       "001": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
