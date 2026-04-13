@@ -1,8 +1,8 @@
 {
   "RADYO_KANALLARI": {
     "01- KRAL FM": "http://kralwmp.radyotvonline.com",
-    "02- Ferdi FM Yedek -2": "http://78.129.150.207:13867/;",
-    "03- Ferdi FM": "http://78.129.150.207:13867/;",
+    "02- Ferdi FM Yedek -2": "http://radyo.ferdifm.tr:13113/;",
+    "03- Ferdi FM": "http://radyo.ferdifm.tr:13113/;",
     "04- MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv",
     "05- MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv",
     "06- KRALPOP": "http://kralpopwmp.radyotvonline.com",
@@ -11,8 +11,8 @@
     "09- KRAL FM Yedek": "https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8",
     "10- KRAL POP Yedek": "https://ssldyg2.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
     "11- KRAL POP Yedek": "https://ssldyg2.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
-    "12- Ferdi FM Yedek": "http://78.129.150.207:13867/;",
-    "13- Ferdi FM Yedek": "http://78.129.150.207:13867/;",
+    "12- Ferdi FM Yedek": "http://radyo.ferdifm.tr:13113/;",
+    "13- Ferdi FM Yedek": "http://radyo.ferdifm.tr:13113/;",
     "14- MüSLüM BABA FM Yedek": "https://stream-176.zeno.fm/e2xldyzxqhouv",
     "15- MüSLüM BABA FM Yedek": "https://stream-176.zeno.fm/e2xldyzxqhouv"
   },
