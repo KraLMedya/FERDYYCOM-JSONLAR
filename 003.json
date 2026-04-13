@@ -3,8 +3,7 @@
     "KRAL FM": "https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8",
     "KRAL POP RADYO": "http://kralpopwmp.radyotvonline.com",
     "Ferdi FM": "http://78.129.150.207:13867/;",
-    "MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv",
-    "KRALPOP Yedek": "http://46.20.3.201/;"
+    "MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv"
   },
   "TV_KANALLARI": {
       "001": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
