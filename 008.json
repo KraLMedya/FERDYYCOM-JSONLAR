@@ -1,7 +1,7 @@
 {
     "RADYO_KANALLARI": {
         "RADYO 2000": "http://stream.taksimbilisim.com:8004/;",
-        "FERDi BABA FM": "https://live.radyositesihazir.com/8004/stream",
+        "Ferdi FM": "http://78.129.150.207:13867/listen.pls?sid=1",
         "MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv"
     },
   "TV_KANALLARI": {
@@ -130,7 +130,7 @@
   },
   "ADMOB_REKLAMLAR": {
     "GECIS_REKLAM_SAYACI": 1,
-    "BANNER": "ca-app-pub-3210781577321184/3290422095",
+    "BANNER": "",
     "GECIS": "ca-app-pub-3210781577321184/6437348274",
     "OPEN": "ca-app-pub-3210781577321184/3717797509",
     "is_admob_enabled": true,
