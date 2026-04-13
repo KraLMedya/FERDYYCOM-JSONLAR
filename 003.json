@@ -1,13 +1,20 @@
 {
   "RADYO_KANALLARI": {
-    "A KRAL FM": "http://kralwmp.radyotvonline.com",
-    "B Ferdi FM": "http://78.129.150.207:13867/;",
-    "C MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv",
-    "D KRALPOP": "http://kralpopwmp.radyotvonline.com",
-    "E KRAL FM Yedek": "https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8",
-    "F KRAL POP Yedek": "https://ssldyg2.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
-    "G Ferdi FM Yedek": "http://78.129.150.207:13867/;",
-    "H MüSLüM BABA FM Yedek": "https://stream-176.zeno.fm/e2xldyzxqhouv"
+    "01- KRAL FM": "http://kralwmp.radyotvonline.com",
+    "02- x Ferdi FM": "http://78.129.150.207:13867/;",
+    "03- Ferdi FM": "http://78.129.150.207:13867/;",
+    "04- MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv",
+    "05- MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv",
+    "06- KRALPOP": "http://kralpopwmp.radyotvonline.com",
+    "07- KRALPOP": "http://kralpopwmp.radyotvonline.com",
+    "08- KRAL FM Yedek": "https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8",
+    "09- KRAL FM Yedek": "https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/playlist.m3u8",
+    "10- KRAL POP Yedek": "https://ssldyg2.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
+    "11- KRAL POP Yedek": "https://ssldyg2.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
+    "12- Ferdi FM Yedek": "http://78.129.150.207:13867/;",
+    "13- Ferdi FM Yedek": "http://78.129.150.207:13867/;",
+    "14- MüSLüM BABA FM Yedek": "https://stream-176.zeno.fm/e2xldyzxqhouv",
+    "15- MüSLüM BABA FM Yedek": "https://stream-176.zeno.fm/e2xldyzxqhouv"
   },
   "TV_KANALLARI": {
       "001": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8",
