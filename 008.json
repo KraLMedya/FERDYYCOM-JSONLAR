@@ -141,7 +141,7 @@
 "VERSIYON_KONTROLU": {
   "min_zorunlu_versiyon_kodu": 1,
   "son_versiyon_kodu": 1,
-  "zorunlu_mesaj_tr": "ÖNEMLİ UYARI:  Uygulamanın önceki 8. sürümünde kritik bir hata tespit edilmiştir. Sorunsuz ve güvenli kullanım için LÜTFEN **yeni stabil sürüm 9'a** (veya daha yükseğe) hemen güncelleyin. Eğer güncelleme butonu çalışmazsa, bu, 9. sürümün henüz Play Store'a düşmediği anlamına gelir; lütfen kısa bir süre sonra tekrar deneyiniz.",
+  "zorunlu_mesaj_tr": " ÖNEMLİ UYARI:  Uygulamanın önceki 8. sürümünde kritik bir hata tespit edilmiştir. Sorunsuz ve güvenli kullanım için LÜTFEN **yeni stabil sürüm 9'a** (veya daha yükseğe) hemen güncelleyin. Eğer güncelleme butonu çalışmazsa, bu, 9. sürümün henüz Play Store'a düşmediği anlamına gelir; lütfen kısa bir süre sonra tekrar deneyiniz.",
   "tavsiye_mesaji_tr": "Yeni özellikler ve iyileştirmeler içeren bir güncelleme mevcuttur. Daha iyi bir deneyim için şimdi güncelleyebilirsiniz.",
   "bakim_modu_aktif": false
 },
