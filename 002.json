@@ -159,7 +159,7 @@
   },
     "002gizli": 
     {
-        "KAYANDUYURUgoster": "false",
+        "KAYANDUYURUgoster": "true",
         "ANASAYACgoster": "false",
         "CANLIYAYIN": "true",
         "GIZLIKRALgoster": "false",
@@ -183,7 +183,7 @@
 },
     "002metinler": 
     {
-        "KAYANDUYURU": "                              📢   Ramazan Bayramınız Mübârek Olsun :) Ailenizle, Sevdiklerinizle; hayırlı, huzurlu, sağlıklı ve bereketli nice Bayramlara...   🤗😊🩵",
+        "KAYANDUYURU": "                              📢   Uygulamanızın şuan kullandığınız sürümlerinde sorunlar olduğunu biliyoruz. Lütfen 10 saniyenizi ayırarak, son sürüm 11'e güncelleyiniz. Kolayca güncelleme için Ayarlar ekranında, Uygulamana Değer Kat butonuna dokunun..   🤗😊🩵",
         "BILGIPENCERETVLER":  "http://kralmedya.github.io/HTML/002-BILGIPENCERETVLER.html",
         "BILGIPENCERETELIFHAKKI":  "http://kralmedya.github.io/HTML/002-KANALLISTESI.html"
     },
