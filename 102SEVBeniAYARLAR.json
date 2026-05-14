@@ -1,0 +1,42 @@
+{
+  "paylasim_ayarlari": {
+    "resim_kalitesi": 33,
+    "paylasim_yenileme": 3000,
+    "karakter_limiti": 150
+  },
+  "uygulama_resimleri": {
+    "anaekran_mutluluk": "https://i.pinimg.com/736x/46/7c/22/467c22eafacc4ed94b11190b636d71a5.jpg",
+    "anaekran_mutluluk_YEDEK": "https://kralmedya.github.io/FOTOLAR/anaekran_mutluluk.webp"
+  },
+  "genel_ayarlar": {
+    "bakim_modu": false
+  },
+  "lisans_bilgileri": {
+    "sahip": "Ferdyy",
+    "gecerlilik_tarihi": "31/12/2026"
+  },
+  "anakayan_yazi": {
+    "etkin": true,
+    "metin": "                              SEV Beni'ye Hoş Geldin :) Burada hiçbir şey için para ödemezsin ! 🤗😊🩵"
+  },
+  "GECIS_REKLAM_SAYACI": 10,
+  "ADMOB_REKLAMLAR": {
+    "BANNER": "ca-app-pub-3940256099942544/6300978111",
+    "GECIS": "ca-app-pub-4848577017194367/1328657716",
+    "OPEN": "ca-app-pub-4848577017194367/3782606259"
+  },
+  "yasal_metinler": {
+      "kullanim_kosullari": {
+        "baslik": "Kullanım Koşulları ve Çocuk Güvenliği",
+        "metin": "1. Yaş Sınırı:\nUygulamamız sadece 18 yaş ve üzeri yetişkinler içindir. 18 yaş altı bireylerin kullanımı kesinlikle yasaktır.\n<br><br>\n2. Çocuk Güvenliği (CSAE):\nÇocuk cinsel istismarı materyallerine (CSAE) karşı sıfır tolerans politikası izlenmektedir. Bu tür içeriklerin paylaşımı yasaktır ve tespiti halinde hesap süresiz kapatılarak yasal mercilere bildirilir.\n<br><br>\n3. Hesap Sorumluluğu:\nHesabınızın güvenliğinden ve paylaştığınız içeriklerin yasalara uygunluğundan siz sorumlusunuz.\n<br><br>\n4. Denetim ve İptal:\nYönetim, topluluk kurallarını veya çocuk güvenliğini ihlal eden hesapları önceden bildirmeksizin sonlandırma hakkını saklı tutar."
+      },
+      "gizlilik_politikasi": {
+        "baslik": "Gizlilik Politikası",
+        "metin": "- Gizliliğinize önem veriyoruz. Uygulamamız, kişisel verilerinizi öncelikli olarak kendi cihazınızda şifreli bir şekilde depolar.\n<br><br>\n- Toplanan Veriler:\nE-posta adresiniz, kullanıcı adınız ve temel profil bilgileriniz güvenli bir iletişim sağlamak amacıyla işlenir.\n<br><br>\n- Veri Güvenliği ve Paylaşımı:\nVerileriniz üçüncü taraflarla reklam veya satış amacıyla paylaşılmaz. Sadece yasal zorunluluk hallerinde ve çocuk güvenliği ihlalleri durumunda yetkili makamlarla paylaşılabilir.\n<br><br>\n- Hesap Silme:\nKullanıcılar diledikleri zaman hesaplarını ve verilerini uygulama üzerinden kalıcı olarak silme hakkına sahiptir."
+      }
+    },
+  "BEKLERKEN_OYNA": {
+    "BALON_PATLATMA": "https://kralmedya.github.io/HTML/BIRAZOYUN.html",
+    "ARABA_YARISI": "https://kralmedya.github.io/oyunlar/game2.html"
+  }
+}
