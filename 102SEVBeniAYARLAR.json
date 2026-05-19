@@ -39,5 +39,10 @@
   "BEKLERKEN_OYNA": {
     "BALON_PATLATMA": "https://kralmedya.github.io/HTML/BIRAZOYUN.html",
     "ARABA_YARISI": "https://kralmedya.github.io/oyunlar/game2.html"
+  },
+  "resim_paylasim_uyari": {
+    "baslik": "Özellik Kapalı",
+    "mesaj": "Resim Ekleme özelliği henüz aktif değil, Sana özel açılmasını istersen yönetime yazabilirsin.",
+    "bize_yaz_butonu_aktif": true
   }
 }
