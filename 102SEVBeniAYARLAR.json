@@ -44,5 +44,6 @@
     "baslik": "Özellik Kapalı",
     "mesaj": "Resim Ekleme özelliği henüz aktif değil, Sana özel açılmasını istersen bize yazabilirsin.",
     "bize_yaz_butonu_aktif": true
-  }
+  },
+  "ADMIN_LIST": [571, 662]
 }
