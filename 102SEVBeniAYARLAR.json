@@ -41,7 +41,7 @@
     "ARABA_YARISI": "https://kralmedya.github.io/oyunlar/game2.html"
   },
   "resim_paylasim_uyari": {
-    "baslik": "Özellik Kapalı",
+    "baslik": "Resim Ekleme Kapalı",
     "mesaj": "Resim Ekleme özelliği henüz aktif değil, açılmasını istersen bize yazabilirsin.\n\nNormal yazı paylaşımı herkes için açıktır.",
     "bize_yaz_butonu_aktif": true
   },
