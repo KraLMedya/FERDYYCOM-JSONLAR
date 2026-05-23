@@ -42,7 +42,7 @@
   },
   "resim_paylasim_uyari": {
     "baslik": "Özellik Kapalı",
-    "mesaj": "Resim Ekleme özelliği henüz aktif değil, açılmasını istersen bize yazabilirsin.",
+    "mesaj": "Resim Ekleme özelliği henüz aktif değil, açılmasını istersen bize yazabilirsin.\n\nNormal yazı paylaşımı herkes için açıktır.",
     "bize_yaz_butonu_aktif": true
   },
   "ADMIN_LIST": [958, 662]
