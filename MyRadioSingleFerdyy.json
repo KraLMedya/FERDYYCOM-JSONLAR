@@ -1,7 +1,7 @@
 {
     "RADYO_KANALLARI": {
-      "DOKSANLAR RADYO": "http://37.247.98.8/stream/166/",
-      "POP 90": "https://25653.live.streamtheworld.com/POP90128AAC.aac",
+      "JOY FM": "https://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls",
+      "FENOMEN": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8",
       "Türkülerle Türkiye": "https://moondigitaledge.radyotvonline.net/turkulerleturkiye/playlist.m3u8",
       "Ferdi FM": "http://radyo.ferdifm.tr:13113/;",
       "MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv"
