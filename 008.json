@@ -1,6 +1,6 @@
 {
     "RADYO_KANALLARI": {
-      "RADYO 2000": "http://stream.taksimbilisim.com:8004/;",
+      "RADYO 2000": "https://stream.taksimbilisim.com/shoutcast/radyo2000/radyo2000/stream",
       "Ferdi FM": "http://radyo.ferdifm.tr:30068/;",
       "MüSLüM BABA FM": "https://stream-176.zeno.fm/e2xldyzxqhouv"
     },
